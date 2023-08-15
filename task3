@@ -1,0 +1,128 @@
+<style>
+  
+  body {
+    font-family: Times, serif;
+    color: white;
+    background-color: black;
+  }
+  
+  .container {
+    max-width: 90rem;
+    margin: 2rem auto;
+    padding: 0px 2rem;
+  }
+  
+  .header {
+    padding: 2rem;
+    margin: 1rem 0px;
+    text-align: center;
+  }
+  
+  header > .title {
+    margin-bottom: 1rem;
+  }
+  
+  .tribute {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 78rem;
+    margin: 0px auto;
+    background: white;
+    color: black;
+    align-items: center;
+    padding: 0px 0px 0px 1rem;
+  }
+  
+  .tribute blockquote {
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  .tribute img {
+    max-width: 100%;
+  }
+  
+  .bio {
+    margin: 2rem auto;
+    padding: 0px 0.5rem;
+    max-width: 40rem;
+  }
+  
+  .bio > h2 {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    line-height: 1.2;
+  }
+  .bio > p {
+    font-size: 1.2rem;
+    line-height: 1.4;
+  }
+  
+  .bio > hr {
+    margin-top: 2rem;
+  }
+</style>
+  <header class="header">
+    <h1 class="title">SWAMI VIVEKANANDA</h1>
+    <p class="description">born January 12, 1863, Calcutta [now Kolkata]—died July 4, 1902, near Calcutta</p>
+  </header>
+  <section class="tribute">
+    <blockquote>
+        “Strength is Life, Weakness is Death.
+
+        Expansion is Life, Contraction is Death.
+        
+        Love is Life, Hatred is Death.”
+    </blockquote>
+    <img src="swami.PNG"/>
+   
+  </section>
+  
+  <section class="bio">
+    <h2>Biography</h2>
+    <p>
+        Swami Vivekananda was born as
+Narendranath Dutta in Calcutta on
+anuary 12, 1863. His parents were
+Bhuvaneshwari Devi and Vishwanath
+Dutta, an attorney-at-law at the Calcutta
+High Court. In 1881, as a young student
+at Scottish Church College, Calcutta,
+he first met the great saint and mystic,
+Sri Ramakrishna (1836-1886). Young Naren was
+seeking G od, and whichever holy man he met,
+Naren asked if he had seen G od. The answer
+in m ost cases was in the negative. But, when he
+asked Sri Ramakrishna the same question, thelatter affirmed that he had seen G od, just as
+clearly as he saw him, or probably even better.
+He added that there were means to realise G od
+and if Naren followed them, he too would do
+the same. It was the authenticity in this promise
+o f direct experience of G od that appealed to the
+intensely rational Narendranath, and he was
+equally moved to see the all-encompassing love
+o f the saint. Eventually, Narendranath accepted
+Sri Ramakrishna as his spiritual master.
+After the passing away o f Sri Ramakrishna,
+Narendranath organised some of his brother
+disciples and together they all took the vow
+of sannyasa (renunciation and m onkhood) in
+Decem ber 1886. They lived in a temporary
+monastic premise at Baranagore in Calcutta.
+Between 1888 and 1889, he lived there. He
+also travelled to various pilgrimage centres in
+North India.
+        Swami Vivekananda (1863-1902) was one
+o f the m ost distinguished spiritual leaders
+o f India who took the ancient Indian message
+o f Vedanta to the West and at the same time
+called upon Indians to serve G o d in man.
+He was not a prophet aloof from the miseries
+o f the world. As a patriot-saint, he exhorted
+Indians to serve India by especially working
+for the economically backward sections of
+society. Thus, he has left behind a dual legacy
+o f spiritual awakening and national revival.
+    </p>
+    <hr />
+  </section>  
